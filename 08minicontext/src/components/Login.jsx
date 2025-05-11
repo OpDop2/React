@@ -1,6 +1,5 @@
 import React, {useState, useContext} from 'react'
-import UserContext from '../context/UserContext'
-
+import UserContext from '/workspaces/React/08minicontext/src/context/UserContext.js'
 function Login() {
     const [username, setUsername] = useState('')
     const [password, setPassword] = useState('')
