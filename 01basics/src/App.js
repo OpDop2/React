@@ -1,7 +1,6 @@
 function App() {
-  return (
-   <h1>print me</h1>
-  );
+    return(
+        <div>hellow</div>
+    )
 }
-
-export default App;
+export default App
